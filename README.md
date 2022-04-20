@@ -43,12 +43,8 @@ space					empty space (player can't see them)
 map can't be splitted by empty lines
 ```
 ## Implemented bonuses
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Wall collisions.
+- [x] A minimap system.
+- [x] Doors which can open and close.
+- [x] Rotate the point of view with the mouse.
+- [ ] animated sprite.
