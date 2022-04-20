@@ -42,3 +42,13 @@ space					empty space (player can't see them)
 
 map can't be splitted by empty lines
 ```
+## Implemented bonuses
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
