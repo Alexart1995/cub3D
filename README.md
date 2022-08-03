@@ -1,5 +1,5 @@
 # cub3D
-This project is inspired by the world-famous eponymous "Wolfenstein 3D" (1992) video game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way.
+This project is inspired by the world-famous eponymous "Wolfenstein 3D" (1992) video game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way
 
 <img src="https://github.com/Alexart1995/cub3D/blob/main/cub3D.png" width="920" height="480">
 
